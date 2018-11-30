@@ -1,6 +1,6 @@
 A PHP utility class for creating workflows with Alfred 3.
 
-See below for the detailed informaiton.
+See below for the detailed information.
 
 --- 
 # Workflows Utility Class
